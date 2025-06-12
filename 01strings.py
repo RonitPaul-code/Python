@@ -11,7 +11,7 @@ print("\n")
 print(Name[0])
 print(Name[1])
 print(Name[2])
-#print(Name[5]) #index error 
+#print(Name[5]) #index error
 
 print("\n")
 

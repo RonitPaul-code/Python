@@ -1,4 +1,4 @@
-#Write a python program that can greet you with good morning, good afternoon and 
+#Write a python program that can greet you with good morning, good afternoon and
 #good night according to the current hour
 #HINT - USE time MODULE
 import time
